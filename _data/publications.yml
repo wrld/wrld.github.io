@@ -1,22 +1,51 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views"
+    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Ruofeng Wei, Di Kang, Qi Dou, and Yun-Hui Liu.
+    image: ./assets/img/teaser_ucnerf.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-template Matching"
+    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Zhaoshuo Li, Qi Dou, and Yun-Hui Liu.
+    conference_short: ICRA
+    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2403.06479.pdf
+    code: https://github.com/wrld/Ada-Tracker.git
+    image: ./assets/img/adatracker_teaser.png
+
+  - title: A visual navigation perspective for category-level object pose estimation
+    authors: <strong>Jiaxin Guo</strong>, Fangxun Zhong, Rong Xiong, Yun-Hui Liu, Yue Wang, and Yiyi Liao.
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2203.13572.pdf
+    code: https://github.com/wrld/visual_navigation_pose_estimation.git
+    image: ./assets/img/pose_nav.png
+
+  - title: "PREGAN: Pose randomization and estimation for weakly paired image style translation"
+    authors: Zexi Chen, <strong>Jiaxin Guo</strong>, Xuecheng Xu, Yue Wang, Rong Xiong.
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2011.00301.pdf
+    code: https://github.com/wrld/PRoGAN.git
+    image: ./assets/img/teaser_pregan.png
+
+  - title: Fast and robust bin-picking system for densely piled industrial objects
+    authors: <strong>Jiaxin Guo</strong>, Lian Fu, Mingkai Jia, Kaijun Wang, Shan Liu.
+    conference_short: CAC
+    conference: Chinese Automation Congress <strong>(CAC)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2012.00316.pdf
+    code: https://github.com/ZJUBinPicking/ZJUBinPicking.git
+    image: ./assets/img/teaser_cac.png
+
+  - title: 3D point-to-keypoint voting network for 6D pose estimation
+    authors: Weitong Hua, <strong>Jiaxin Guo</strong>, Yue Wang, Rong Xiong.
+    conference_short: ICARCV
+    conference: International Conference on Control, Automation, Robotics and Vision <strong>(ICARCV)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2012.11938.pdf
+    image: ./assets/img/teaser_icarcv.png
+
+  - title: Collaborative localization of aerial and ground mobile robots through orthomosaic map
+    authors: Xuecheng Xu, Zexi Chen, <strong>Jiaxin Guo</strong>, Yue Wang, Yunkai Wang, Rong Xiong.
+    conference_short: RCAR
+    conference: IEEE International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2007.11233.pdf
+    image: ./assets/img/teaser_rcar.png
