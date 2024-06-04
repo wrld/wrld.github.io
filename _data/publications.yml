@@ -1,11 +1,16 @@
 main:
+  - title: "Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction"
+    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, and Yun-Hui Liu.
+    image: ./assets/img/teaser_gs.png
+    conference_short: Under Review
 
   - title: "UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views"
     authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Ruofeng Wei, Di Kang, Qi Dou, and Yun-Hui Liu.
     image: ./assets/img/teaser_ucnerf.png
+    conference_short: Under Review
 
   - title: "Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-template Matching"
-    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Zhaoshuo Li, Qi Dou, and Yun-Hui Liu.
+    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Zhaoshuo Li, Tongyu Jia, Qi Dou, and Yun-Hui Liu.
     conference_short: ICRA
     conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.06479.pdf

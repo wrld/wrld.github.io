@@ -6,13 +6,13 @@ email: jiaxinguo@link.cuhk.edu.hk
 email2: jxguo@mae.cuhk.edu.hk
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Jiaxin Guo, jiaxinguo, GUO Jiaxin, guojiaxin
+keywords: Jiaxin Guo, jiaxinguo, GUO Jiaxin, guojiaxin, cuhk, yunhui liu
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: Jiaxin Guo is a Ph.D. candidate in the CUHK T stone robotics institue and the Chinese University of Hong Kong. Her research lies in 3D reconstruction, 3D uncerstanding, medical image analysis, and surgical robotics. 
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=pPM8fwcAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=KoODua4AAAAJ&hl=en
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/wrld
 linkedin: https://www.linkedin.com/in/jiaxin-guo-043a6b1b8/
