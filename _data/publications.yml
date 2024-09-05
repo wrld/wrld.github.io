@@ -7,6 +7,13 @@ main:
     image: ./assets/img/teaser_ucnerf.png
     conference_short: Arxiv
 
+  - title: "Scale-aware monocular reconstruction via robot kinematics and visual data in neural radiance fields"
+    authors: Ruofeng Wei, <strong>Jiaxin Guo</strong>, Yiang Lu, Fangxun Zhong, Yunhui Liu, Dong Sun, Qi Dou.
+    conference_short: AIS
+    conference: Artificial Intelligence Surgery <strong>(AIS)</strong>, 2024.
+    pdf: https://www.oaepublish.com/articles/ais.2024.12
+    image: ./assets/img/scale_nerf.png
+
   - title: "Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction"
     authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, and Yun-Hui Liu.
     conference_short: MICCAI
@@ -15,7 +22,6 @@ main:
     code: https://github.com/wrld/Free-SurGS
     image: ./assets/img/teaser_gs.png
     
-
   - title: "Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-template Matching"
     authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Zhaoshuo Li, Tongyu Jia, Qi Dou, and Yun-Hui Liu.
     conference_short: ICRA
