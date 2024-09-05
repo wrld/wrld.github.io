@@ -1,13 +1,20 @@
 main:
-  - title: "Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction"
-    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, and Yun-Hui Liu.
-    image: ./assets/img/teaser_gs.png
-    conference_short: Under Review
+  
 
   - title: "UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views"
     authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Ruofeng Wei, Di Kang, Qi Dou, and Yun-Hui Liu.
+    pdf: http://arxiv.org/pdf/2409.02917.pdf
     image: ./assets/img/teaser_ucnerf.png
-    conference_short: Under Review
+    conference_short: Arxiv
+
+  - title: "Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction"
+    authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, and Yun-Hui Liu.
+    conference_short: MICCAI
+    conference: Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2407.02918.pdf
+    code: https://github.com/wrld/Free-SurGS
+    image: ./assets/img/teaser_gs.png
+    
 
   - title: "Ada-Tracker: Soft Tissue Tracking via Inter-Frame and Adaptive-template Matching"
     authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Zhaoshuo Li, Tongyu Jia, Qi Dou, and Yun-Hui Liu.
@@ -49,7 +56,7 @@ main:
     image: ./assets/img/teaser_icarcv.png
 
   - title: Collaborative localization of aerial and ground mobile robots through orthomosaic map
-    authors: Xuecheng Xu, Zexi Chen, <strong>Jiaxin Guo</strong>, Yue Wang, Yunkai Wang, Rong Xiong.
+    authors: Xuecheng Xu*, Zexi Chen*, <strong>Jiaxin Guo*</strong>, Yue Wang, Yunkai Wang, Rong Xiong.
     conference_short: RCAR
     conference: IEEE International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2007.11233.pdf
