@@ -10,7 +10,7 @@ I obtained my B.Eng (Sep. 2017 - Jun. 2021) in Control Science and Engineering a
 
 ## Research Interests
 
-I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. **I am also seeking for collaborations, please feel free to contact me if you are interested in my research!**
+I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. <span style="color:red">I am also seeking for collaborations, please feel free to contact me if you are interested in my research!</span>
 
 ## News
 
