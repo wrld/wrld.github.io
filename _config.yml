@@ -6,8 +6,12 @@ email: jiaxinguo@link.cuhk.edu.hk
 email2: jxguo@mae.cuhk.edu.hk
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Jiaxin Guo, jiaxinguo, GUO Jiaxin, guojiaxin, cuhk, jiaxin, yunhui liu
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Jiaxin Guo, jiaxinguo, GUO Jiaxin, guojiaxin, cuhk, jiaxin, yunhui liu, 3D reconstruction, surgical robotics
+description: Personal homepage of Jiaxin Guo, Ph.D. candidate at CUHK, specializing in 3D reconstruction, surgical robotics, and scene understanding.
+# <title>Jiaxin Guo - CUHK Homepage</title>
+# <meta name="description" content="Personal homepage of Jiaxin Guo, Ph.D. candidate at CUHK, specializing in 3D reconstruction, surgical robotics, and scene understanding">
+# <meta name="keywords" content="Jiaxin Guo, CUHK, 3D reconstruction, surgical robotics, novel view synthesis, PhD candidate">
+# <meta name="author" content="Jiaxin Guo">
 canonical: Jiaxin Guo is a Ph.D. candidate in the CUHK T stone robotics institue and the Chinese University of Hong Kong. Her research lies in neural rendering, 3D reconstruction, 3D uncerstanding, medical image analysis, and surgical robotics. 
 
 # Links 
