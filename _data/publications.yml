@@ -1,14 +1,28 @@
 main:
   
+  - title: "Endo3R: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views"
+    authors: <strong>Jiaxin Guo</strong>, Wenzhen Dong, Tianyu Huang, Hao Ding, Ziyi Wang, Haomin Kuang, Qi Dou, and Yun-Hui Liu.
+    conference_short: MICCAI
+    conference: Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI early accept)</strong>, 2025.
+    pdf: http://arxiv.org/pdf/2504.03198.pdf
+    code: https://github.com/wrld/Endo3R
+    image: ./assets/img/endo3r.png
+
+  - title: "MT-ViT: Multi-Task Video Transformer for Surgical Skill Assessment from Streaming Long-term Video"
+    authors: <strong>Jiaxin Guo</strong>, Shaocong Han, and Yun-Hui Liu.
+    conference_short: ROBIO
+    conference: IEEE International Conference on Robotics and Biomimetics <strong>(ROBIO)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10907318
+    image: ./assets/img/ROBIO.png
 
   - title: "UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views"
     authors: <strong>Jiaxin Guo</strong>, Jiangliu Wang, Ruofeng Wei, Di Kang, Qi Dou, and Yun-Hui Liu.
     conference_short: TMI
     conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2024.
     pdf: http://arxiv.org/pdf/2409.02917.pdf
+    code: https://github.com/wrld/uc-nerf
     image: ./assets/img/teaser_ucnerf.png
     
-
   - title: "Scale-aware monocular reconstruction via robot kinematics and visual data in neural radiance fields"
     authors: Ruofeng Wei, <strong>Jiaxin Guo</strong>, Yiang Lu, Fangxun Zhong, Yunhui Liu, Dong Sun, Qi Dou.
     conference_short: AIS

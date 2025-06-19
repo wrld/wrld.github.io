@@ -10,7 +10,15 @@ I obtained my B.Eng (Sep. 2017 - Jun. 2021) in Control Science and Engineering a
 
 ## Research Interests
 
-I am interested in 3D scene understanding, 3D reconstruction, and generative model under challenging situations like minimal invasive surgical scene, autonomous surgery. If you are interested in my research, please feel free to contact me.
+I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. **I am also seeking for collaborations, please feel free to contact me if you are interested in my research!**
+
+## News
+
+- **[06/2025]** One paper about surgical robotic system is accepted to IROS 2025.
+- **[05/2025]** Our paper [Endo3R](https://arxiv.org/abs/2504.03198) is early accepted to MICCAI 2025.
+- **[12/2024]** One paper about surgical skill assessment is accepted to ROBIO 2024.
+- **[11/2024]** Our paper [UC-NeRF](https://arxiv.org/abs/2409.02917) is accepted to IEEE TMI 2024.
+- **[06/2024]** Our paper [Free-SurGS](https://arxiv.org/abs/2407.02918) is accepted to MICCAI 2024.
 
 {% include_relative _includes/publications.md %}
 

@@ -1,16 +1,17 @@
+## Selected Honor & Awards
+- CUHK Postgraduate Student Scholarship, The Chinese University of Hong Kong.
+- Outstanding Graduate in Zhejiang Province and Zhejiang University.
+- 3rd Prize, 16th "Challenge Cup" National College Student Competition, Beijing, China.
+- 1st Prize, ICRA 2019 Robomaster AI Challenge by ICRA/IEEE/DJI, Montreal, Canada.
+- 3rd Place, WRSC (World Robotic Sailing Championship) \& IRSC, Southampton, UK.
+
 ## Professional Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra"><autocolor>IEEE International Conference on Robotics and Automation (ICRA)</autocolor></a></li>
-  <li><a href="https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros"><autocolor>International Conference on Intelligent Robots and Systems (IROS)</autocolor></a></li>
-</ul>
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42"><autocolor>IEEE Transactions on Medical Imaging (TMI)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"><autocolor>IEEE Robotics and Automation Letters (RA-L)</autocolor></a></li>
+  <li><autocolor>Conferences: ICCV, NeurIPS, ICRA, IROS, ROBIO</autocolor></a></li>
+  <li><autocolor>Journals: TMI, MIA, JBHI, TBME, TASE, RAL, Sensors</autocolor></a></li>
 </ul>
 
 ## Teaching Assistant
