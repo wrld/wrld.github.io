@@ -3,7 +3,7 @@ layout: homepage
 title: Jiaxin Guo's Homepage
 ---
 
-## Jiaxin Guo's Homepage
+## About Me
 
 Hi there. I am a Ph.D. candidate in [CUHK T Stone Robotics Institute (CURI)](https://www.youtube.com/watch?v=x-68b5cEvIE) from [the Chinese University of Hong Kong (CUHK)](https://cuhk.edu.hk/chinese/index.html), supervised by [Prof. Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). 
 
@@ -11,7 +11,7 @@ I obtained my B.Eng (Sep. 2017 - Jun. 2021) in Control Science and Engineering a
 
 ## Research Interests
 
-I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. <span style="color:red">I am also seeking for collaborations, please feel free to contact me if you are interested in my research!</span>
+I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. <span style="color:red">I am also seeking collaborations, please feel free to contact me if you are interested in my research!</span>
 
 ## News
 
