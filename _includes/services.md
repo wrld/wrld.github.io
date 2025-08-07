@@ -1,6 +1,7 @@
 ## Selected Honor & Awards
 - CUHK Postgraduate Student Scholarship, The Chinese University of Hong Kong.
-- Outstanding Graduate in Zhejiang Province and Zhejiang University.
+- Outstanding Graduate in Zhejiang Province.
+- Outstanding Graduate in Zhejiang University.
 - 3rd Prize, 16th "Challenge Cup" National College Student Competition, Beijing, China.
 - 1st Prize, ICRA 2019 Robomaster AI Challenge by ICRA/IEEE/DJI, Montreal, Canada.
 - 3rd Place, WRSC (World Robotic Sailing Championship) & IRSC, Southampton, UK.

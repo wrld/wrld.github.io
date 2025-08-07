@@ -20,6 +20,7 @@ main:
   - title: "MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization"
     authors: Mingkai Jia, Wei Yin, Xiaotao Hu, <strong>Jiaxin Guo</strong>, Xiaoyang Guo, Qian Zhang, Xiao-Xiao Long, Ping Tan.
     conference_short: Arxiv
+    conference: Arxiv paper, 2025.
     pdf: https://arxiv.org/abs/2507.07997.pdf
     code: https://github.com/MKJia/MGVQ
     image: ./assets/img/MGVQ.png
