@@ -6,7 +6,7 @@ main:
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025. (<span style="color:red">Highlight</span>)
     pdf: http://arxiv.org/abs/2508.04611.pdf
     code: https://github.com/aeolusguan/OmniDepth
-    image: ./assets/img/OmniDepth.png
+    image: ./assets/img/Omnidepth.png
 
   - title: "Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video"
     authors: <strong>Jiaxin Guo</strong>, Wenzhen Dong, Tianyu Huang, Hao Ding, Ziyi Wang, Haomin Kuang, Qi Dou, and Yun-Hui Liu.
