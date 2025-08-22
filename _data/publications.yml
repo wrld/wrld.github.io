@@ -1,17 +1,17 @@
 main:
   
-  - title: "OmniDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"
+  - title: "BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"
     authors: Tongfan Guan, <strong>Jiaxin Guo</strong>, Chen Wang, and Yun-Hui Liu.
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025. (<span style="color:red">Highlight</span>)
     pdf: http://arxiv.org/abs/2508.04611.pdf
-    code: https://github.com/aeolusguan/OmniDepth
+    code: https://github.com/aeolusguan/BridgeDepth
     image: ./assets/img/Omnidepth.png
 
   - title: "Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video"
     authors: <strong>Jiaxin Guo</strong>, Wenzhen Dong, Tianyu Huang, Hao Ding, Ziyi Wang, Haomin Kuang, Qi Dou, and Yun-Hui Liu.
     conference_short: MICCAI
-    conference: Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025. (<span style="color:red">Early accept, top 9%</span>)
+    conference: Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025. (<span style="color:red">Oral</span>)
     pdf: http://arxiv.org/pdf/2504.03198.pdf
     code: https://github.com/wrld/Endo3R
     page: https://wrld.github.io/Endo3R/

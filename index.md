@@ -14,7 +14,7 @@ I obtained my B.Eng (Sep. 2017 - Jun. 2021) in Control Science and Engineering a
 I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. <span style="color:red">I am also seeking collaborations, please feel free to contact me if you are interested in my research!</span>
 
 ## News
-- **[07/2025]** Our paper [OmniDepth](http://arxiv.org/abs/2508.04611) is accepted to ICCV 2025 as **highlight** paper.
+- **[07/2025]** Our paper [BridgeDepth](http://arxiv.org/abs/2508.04611) is accepted to ICCV 2025 as **highlight** paper.
 - **[06/2025]** One paper about surgical robotic system is accepted to IROS 2025.
 - **[05/2025]** Our paper [Endo3R](https://arxiv.org/abs/2504.03198) is early accepted to MICCAI 2025 as **oral** paper.
 - **[12/2024]** One paper about surgical skill assessment is accepted to ROBIO 2024.
