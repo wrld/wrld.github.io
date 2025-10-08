@@ -9,7 +9,7 @@
 ## Professional Services
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Conference Reviewer: ICCV, NeurIPS, ICRA, IROS, ROBIO</autocolor></li>
+  <li><autocolor>Conference Reviewer: ICLR, ICCV, NeurIPS, ICRA, IROS, ROBIO</autocolor></li>
   <li><autocolor>Journal Reviewer: TMI, MIA, JBHI, TBME, TASE, RAL, Sensors</autocolor></li>
 </ul>
 
