@@ -1,5 +1,12 @@
 main:
-  
+
+  - title: "A 3D Edge-Attention Denoising Diffusion Network for Prostate Segmentation in Puncture Biopsy"
+    authors: Haomin Kuang, <strong>Jiaxin Guo</strong>, Kai Xu, Yun-Hui Liu.
+    conference_short: JBHI
+    conference: IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2025. 
+    pdf: https://ieeexplore.ieee.org/document/11193706/authors#authors
+    image: ./assets/img/prostate_method.png
+
   - title: "BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"
     authors: Tongfan Guan, <strong>Jiaxin Guo</strong>, Chen Wang, and Yun-Hui Liu.
     conference_short: ICCV
@@ -16,6 +23,12 @@ main:
     code: https://github.com/wrld/Endo3R
     page: https://wrld.github.io/Endo3R/
     image: ./assets/img/endo3r.png
+  
+  - title: "Design and Kinematics for the Cystoscope of a Transurethral Continuum Surgical Robotic System"
+    authors: 	Haomin Kuang, <strong>Jiaxin Guo</strong>, Wei Chen, Kai Xu, Yun-Hui Liu.
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025. (<span style="color:red">Oral</span>)
+    image: ./assets/img/iros25_teaser.png
   
   - title: "MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization"
     authors: Mingkai Jia, Wei Yin, Xiaotao Hu, <strong>Jiaxin Guo</strong>, Xiaoyang Guo, Qian Zhang, Xiao-Xiao Long, Ping Tan.
