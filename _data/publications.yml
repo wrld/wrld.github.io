@@ -1,4 +1,11 @@
 main:
+  - title: "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
+    authors: <strong>Jiaxin Guo</strong>, Tongfan Guan, Wenzhen Dong, Wenzhao Zheng, Wenting Wang, Yue Wang, Yeung Yam, and Yun-Hui Liu.
+    conference_short: Arxiv
+    conference: Arxiv paper, 2025.
+    pdf: https://www.researchgate.net/profile/Jiaxin-Guo-6/publication/396548217_SaLon3R_Structure-aware_Long-term_Generalizable_3D_Reconstruction_from_Unposed_Images/links/68f1bc17ffdca73694b873ac/SaLon3R-Structure-aware-Long-term-Generalizable-3D-Reconstruction-from-Unposed-Images.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJfZGlyZWN0In19
+    page: https://wrld.github.io/SaLon3R/
+    image: ./assets/img/Salon3R_pipeline.png
 
   - title: "A 3D Edge-Attention Denoising Diffusion Network for Prostate Segmentation in Puncture Biopsy"
     authors: Haomin Kuang, <strong>Jiaxin Guo</strong>, Kai Xu, Yun-Hui Liu.
