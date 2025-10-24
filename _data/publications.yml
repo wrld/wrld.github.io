@@ -35,7 +35,7 @@ main:
   - title: "Design and Kinematics for the Cystoscope of a Transurethral Continuum Surgical Robotic System"
     authors: 	Haomin Kuang, <strong>Jiaxin Guo</strong>, Wei Chen, Kai Xu, Yun-Hui Liu.
     conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025. (<span style="color:red">Oral</span>)
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
     image: ./assets/img/iros25_teaser.png
   
   - title: "MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization"
