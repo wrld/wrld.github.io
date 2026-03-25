@@ -11,9 +11,11 @@ I obtained my Ph.D. (Aug. 2021 - Sep. 2025) in Mechanical and Automation Enginee
 
 ## Research Interests
 
-I am interested in 3D scene understanding, 3D reconstruction, novel view synthesis and generative model under challenging situations like minimal invasive surgical scene, surgical autonomy. <span style="color:red">I am also seeking collaborations, please feel free to contact me if you are interested in my research!</span>
+My research focuses on embodied intelligence, 3D/4D scene understanding and reconstruction, novel view synthesis, generative modeling, and world models, with particular interest in challenging environments such as minimally invasive surgery and surgical autonomy. More broadly, I am interested in building intelligent systems that can perceive, reconstruct, understand, and interact with complex dynamic scenes. <span style="color:red">I am also open to collaborations, please feel free to reach out if you are interested in my research.</span>
 
 ## News
+- **[02/2026]** Our paper [BlurPoint]() is accepted to ICRA 2026.
+- **[01/2026]** Our paper [DispViT](https://openreview.net/forum?id=c21yqwf02V) is accepted to ICLR 2026.
 - **[09/2025]** One paper about prostate segmentation is accepted to JBHI.
 - **[07/2025]** Our paper [BridgeDepth](http://arxiv.org/abs/2508.04611) is accepted to ICCV 2025 as **highlight** paper.
 - **[06/2025]** One paper about surgical robotic system is accepted to IROS 2025 as **oral** paper.

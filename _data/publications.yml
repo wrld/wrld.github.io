@@ -1,4 +1,28 @@
 main:
+  - title: "BlurPoint: Efficient Motion Blur Aware\\Student-Teacher Local Feature Learning"
+    authors: Wenting Wang, Zhenjun Zhao, <strong>Jiaxin Guo</strong>, Yun-Hui Liu, Charlie C.L. Wang, and Yeung Yam.
+    conference_short: ICRA
+    conference: ICRA, 2026.
+    # pdf: https://arxiv.org/pdf/2511.20565
+    # code: https://github.com/MKJia/DINO-Tok
+    image: ./assets/img/blurpoint.png
+
+  - title: "DINO-Tok: Adapting DINO for Visual Tokenizers"
+    authors: Mingkai Jia, Mingxiao Li, Zhijian Shu, Anlin Zheng, Liaoyuan Fan, <strong>Jiaxin Guo</strong>, Tianxing Shi, Dongyue Lu, Zeming Li, Xiaoyang Guo, Xiaojuan Qi, Xiaoxiao Long, Qian Zhang, Ping Tan, Wei Yin.
+    conference_short: Arxiv
+    conference: Arxiv paper, 2026.
+    pdf: https://arxiv.org/pdf/2511.20565
+    code: https://github.com/MKJia/DINO-Tok
+    image: ./assets/img/DinoTok.png
+
+  - title: "DispViT: Direct Stereo Disparity Regression with a Single-Stream Vision Transformer"
+    authors: Tongfan Guan, <strong>Jiaxin Guo</strong>, Tianyu Huang, Jinhu Dong, Chen Wang, and Yun-Hui Liu.
+    conference_short: ICLR
+    conference: ICLR, 2026.
+    pdf: https://openreview.net/pdf?id=c21yqwf02V
+    code: https://github.com/aeolusguan/DispViT
+    image: ./assets/img/DispViT.png 
+
   - title: "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
     authors: <strong>Jiaxin Guo</strong>, Tongfan Guan, Wenzhen Dong, Wenzhao Zheng, Wenting Wang, Yue Wang, Yeung Yam, and Yun-Hui Liu.
     conference_short: Arxiv
@@ -7,6 +31,13 @@ main:
     page: https://wrld.github.io/SaLon3R/
     code: https://github.com/wrld/SaLon3R
     image: ./assets/img/Salon3R_pipeline.png
+  
+  - title: "EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction"
+    authors: Taoyu Wu, Yiyi Miao, <strong>Jiaxin Guo</strong>, Ziyan Chen, Sihang Zhao, Zhuoxiao Li, Zhe Tang, Baoru Huang, Limin Yu.
+    conference_short: BIBM
+    conference: International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2510.23087
+    image: ./assets/img/endowave.png
 
   - title: "A 3D Edge-Attention Denoising Diffusion Network for Prostate Segmentation in Puncture Biopsy"
     authors: Haomin Kuang, <strong>Jiaxin Guo</strong>, Kai Xu, Yun-Hui Liu.
