@@ -7,7 +7,7 @@ main:
     code: https://github.com/Runsong123/EPS3D
     image: ./assets/img/eps3d.png
 
-  - title: "Surg$\Sigma$: A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence"
+  - title: "SurgSigma: A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence"
     authors: Zhitao Zeng, Mengya Xu, Jian Jiang, Pengfei Guo, Yunqiu Xu, Zhu Zhuo, Chang Han Low, Yufan He, Dong Yang, Chenxi Lin, Yiming Gu, <strong>Jiaxin Guo</strong>, Yutong Ban, Daguang Xu, Qi Dou, Yueming Jin
     conference_short: Arxiv
     conference: Arxiv paper, 2026.
