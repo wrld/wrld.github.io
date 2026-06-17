@@ -1,4 +1,20 @@
 main:
+  - title: "EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation"
+    authors: Runsong Zhu, <strong>Jiaxin Guo</strong>, Xiaoyang Guo, Zhengzhe Liu, Ka-Hei Hui, Wei Yin, Kai Chen, Wei Chen, Weiqiang Ren, Yunhui Liu, Pheng-Ann Heng, Chi-Wing Fu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2606.08980
+    code: https://github.com/Runsong123/EPS3D
+    image: ./assets/img/eps3d.png
+
+  - title: "Surg$\Sigma$: A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence"
+    authors: Zhitao Zeng, Mengya Xu, Jian Jiang, Pengfei Guo, Yunqiu Xu, Zhu Zhuo, Chang Han Low, Yufan He, Dong Yang, Chenxi Lin, Yiming Gu, <strong>Jiaxin Guo</strong>, Yutong Ban, Daguang Xu, Qi Dou, Yueming Jin
+    conference_short: Arxiv
+    conference: Arxiv paper, 2026.
+    pdf: https://arxiv.org/pdf/2603.16822
+    code: https://huggingface.co/datasets/SurgSigma/SurgSigma-DB
+    image: ./assets/img/surgsigma.png
+
   - title: "BlurPoint: Efficient Motion Blur Aware\\Student-Teacher Local Feature Learning"
     authors: Wenting Wang, Zhenjun Zhao, <strong>Jiaxin Guo</strong>, Yun-Hui Liu, Charlie C.L. Wang, and Yeung Yam.
     conference_short: ICRA

@@ -14,6 +14,8 @@ I obtained my Ph.D. (Aug. 2021 - Sep. 2025) in Mechanical and Automation Enginee
 My research focuses on embodied intelligence, 3D/4D scene understanding and reconstruction, novel view synthesis, generative modeling, and world models, with particular interest in challenging environments such as minimally invasive surgery and surgical autonomy. More broadly, I am interested in building intelligent systems that can perceive, reconstruct, understand, and interact with complex dynamic scenes. <span style="color:red">I am also open to collaborations, please feel free to reach out if you are interested in my research.</span>
 
 ## News
+- **[06/2026]** Our paper [RoSeSLAM](https://arxiv.org/abs/2606.08980v1) is accepted to IROS 2026. 
+- **[05/2026]** Our paper [EPS3D](https://arxiv.org/abs/2606.08980v1) is accepted to ICML 2026.
 - **[02/2026]** Our paper [BlurPoint]() is accepted to ICRA 2026.
 - **[01/2026]** Our paper [DispViT](https://openreview.net/forum?id=c21yqwf02V) is accepted to ICLR 2026.
 - **[09/2025]** One paper about prostate segmentation is accepted to JBHI.
