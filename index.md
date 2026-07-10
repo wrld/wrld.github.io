@@ -14,13 +14,14 @@ I obtained my Ph.D. (Aug. 2021 - Sep. 2025) in Mechanical and Automation Enginee
 My research focuses on embodied intelligence, 3D/4D scene understanding and reconstruction, novel view synthesis, generative modeling, and world models, with particular interest in challenging environments such as minimally invasive surgery and surgical autonomy. More broadly, I am interested in building intelligent systems that can perceive, reconstruct, understand, and interact with complex dynamic scenes. <span style="color:red">I am also open to collaborations, please feel free to reach out if you are interested in my research.</span>
 
 ## News
-- **[06/2026]** Our paper [RoSeSLAM](https://arxiv.org/abs/2606.08980v1) is accepted to IROS 2026. 
+- **[07/2026]** Our paper [SaLon3R](https://arxiv.org/abs/2510.15072) is accepted to IJCV 2026. 
+- **[06/2026]** Our paper [RoSeSLAM]() is accepted to IROS 2026. 
 - **[05/2026]** Our paper [EPS3D](https://arxiv.org/abs/2606.08980v1) is accepted to ICML 2026.
 - **[02/2026]** Our paper [BlurPoint]() is accepted to ICRA 2026.
 - **[01/2026]** Our paper [DispViT](https://openreview.net/forum?id=c21yqwf02V) is accepted to ICLR 2026.
 - **[09/2025]** One paper about prostate segmentation is accepted to JBHI.
 - **[07/2025]** Our paper [BridgeDepth](http://arxiv.org/abs/2508.04611) is accepted to ICCV 2025 as **highlight** paper.
-- **[06/2025]** One paper about surgical robotic system is accepted to IROS 2025 as **oral** paper.
+- **[06/2025]** One paper about surgical robotic system is accepted to IROS 2025.
 - **[05/2025]** Our paper [Endo3R](https://arxiv.org/abs/2504.03198) is early accepted to MICCAI 2025 as **oral** paper.
 - **[12/2024]** One paper about surgical skill assessment is accepted to ROBIO 2024.
 - **[11/2024]** Our paper [UC-NeRF](https://arxiv.org/abs/2409.02917) is accepted to IEEE TMI 2024.

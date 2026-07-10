@@ -1,4 +1,13 @@
 main:
+  - title: "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
+    authors: <strong>Jiaxin Guo</strong>, Tongfan Guan, Wenzhen Dong, Wenzhao Zheng, Wenting Wang, Yue Wang, Yeung Yam, and Yun-Hui Liu.
+    conference_short: IJCV
+    conference: International Journal of Computer Vision, 2026.
+    pdf: https://arxiv.org/abs/2510.15072
+    page: https://wrld.github.io/SaLon3R/
+    code: https://github.com/wrld/SaLon3R
+    image: ./assets/img/Salon3R_pipeline.png
+
   - title: "EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation"
     authors: Runsong Zhu, <strong>Jiaxin Guo</strong>, Xiaoyang Guo, Zhengzhe Liu, Ka-Hei Hui, Wei Yin, Kai Chen, Wei Chen, Weiqiang Ren, Yunhui Liu, Pheng-Ann Heng, Chi-Wing Fu
     conference_short: ICML
@@ -6,6 +15,12 @@ main:
     pdf: https://arxiv.org/pdf/2606.08980
     code: https://github.com/Runsong123/EPS3D
     image: ./assets/img/eps3d.png
+
+  - title: "RoSe-SLAM: Robust semantic-aware Gaussian splatting SLAM from dynamic monocular videos"
+    authors: Wenting Wang, <strong>Jiaxin Guo</strong>, Wenzhen Dong, Yunhui Liu, Charlie C.L. Wang, and Yeung Yam.
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2026.
+    image: ./assets/img/teaser_new.png
 
   - title: "SurgSigma: A Spectrum of Large-Scale Multimodal Data and Foundation Models for Surgical Intelligence"
     authors: Zhitao Zeng, Mengya Xu, Jian Jiang, Pengfei Guo, Yunqiu Xu, Zhu Zhuo, Chang Han Low, Yufan He, Dong Yang, Chenxi Lin, Yiming Gu, <strong>Jiaxin Guo</strong>, Yutong Ban, Daguang Xu, Qi Dou, Yueming Jin
@@ -38,15 +53,6 @@ main:
     pdf: https://openreview.net/pdf?id=c21yqwf02V
     code: https://github.com/aeolusguan/DispViT
     image: ./assets/img/DispViT.png 
-
-  - title: "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
-    authors: <strong>Jiaxin Guo</strong>, Tongfan Guan, Wenzhen Dong, Wenzhao Zheng, Wenting Wang, Yue Wang, Yeung Yam, and Yun-Hui Liu.
-    conference_short: Arxiv
-    conference: Arxiv paper, 2025.
-    pdf: https://www.researchgate.net/profile/Jiaxin-Guo-6/publication/396548217_SaLon3R_Structure-aware_Long-term_Generalizable_3D_Reconstruction_from_Unposed_Images/links/68f1bc17ffdca73694b873ac/SaLon3R-Structure-aware-Long-term-Generalizable-3D-Reconstruction-from-Unposed-Images.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJfZGlyZWN0In19
-    page: https://wrld.github.io/SaLon3R/
-    code: https://github.com/wrld/SaLon3R
-    image: ./assets/img/Salon3R_pipeline.png
   
   - title: "EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction"
     authors: Taoyu Wu, Yiyi Miao, <strong>Jiaxin Guo</strong>, Ziyan Chen, Sihang Zhao, Zhuoxiao Li, Zhe Tang, Baoru Huang, Limin Yu.
