@@ -1,4 +1,10 @@
 main:
+  - title: "SurgTAP-3D: A Large-Scale Cross-Surgery Video Dataset with Contact-Aware 3D Motion Tracking"
+    authors:  <strong>Jiaxin Guo</strong>, Wenzhen Dong, Taoyu Wu, Haomin Kuang, Mengya Xu, Kejian Shi, Ziyi Wang, Tongfan Guan, Mingkai Jia, Yue Wang, Qi Dou, and Yun-Hui Liu.
+    conference_short: TRO
+    conference: Transactions on Robotics, 2026.
+    image: ./assets/img/surgtap3d.png
+
   - title: "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
     authors: <strong>Jiaxin Guo</strong>, Tongfan Guan, Wenzhen Dong, Wenzhao Zheng, Wenting Wang, Yue Wang, Yeung Yam, and Yun-Hui Liu.
     conference_short: IJCV
