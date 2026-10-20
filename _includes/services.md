@@ -1,4 +1,5 @@
 ## Selected Honor & Awards
+- Outstanding reviewer in CVPR 2026.
 - CUHK Postgraduate Student Scholarship, The Chinese University of Hong Kong.
 - Outstanding Graduate in Zhejiang Province.
 - Outstanding Graduate in Zhejiang University.
@@ -9,8 +10,8 @@
 ## Professional Services
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Conference Reviewer: CVPR, ICLR, ICCV, ECCV, NeurIPS, ICRA, IROS, ROBIO</autocolor></li>
-  <li><autocolor>Journal Reviewer: TMI, MIA, TRO, JBHI, TBME, TASE, RAL, Sensors</autocolor></li>
+  <li><autocolor>Conference Reviewer: CVPR, ICLR, ICCV, ECCV, NeurIPS, WACV, ICRA, IROS, ROBIO</autocolor></li>
+  <li><autocolor>Journal Reviewer: TMI, MIA, TRO, JBHI, TBME, TASE, RA-L, Sensors</autocolor></li>
 </ul>
 
 ## Teaching Assistant

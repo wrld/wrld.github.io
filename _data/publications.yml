@@ -46,8 +46,8 @@ main:
 
   - title: "DINO-Tok: Adapting DINO for Visual Tokenizers"
     authors: Mingkai Jia, Mingxiao Li, Zhijian Shu, Anlin Zheng, Liaoyuan Fan, <strong>Jiaxin Guo</strong>, Tianxing Shi, Dongyue Lu, Zeming Li, Xiaoyang Guo, Xiaojuan Qi, Xiaoxiao Long, Qian Zhang, Ping Tan, Wei Yin.
-    conference_short: Arxiv
-    conference: Arxiv paper, 2026.
+    conference_short: WACV
+    conference: WACV, 2027.
     pdf: https://arxiv.org/pdf/2511.20565
     code: https://github.com/MKJia/DINO-Tok
     image: ./assets/img/DinoTok.png
